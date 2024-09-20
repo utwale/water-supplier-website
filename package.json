@@ -1,8 +1,7 @@
 {
-  "homepage": " https://github.com/utwale/water-supplier-website",
   "name": "waterapp",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
@@ -24,7 +23,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy" : "npm run build", 
-    "deploy": "gh-pages -d build", 
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

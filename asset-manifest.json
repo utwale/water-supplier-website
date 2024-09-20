@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8032367.css",
-    "main.js": "/static/js/main.422f576c.js",
-    "static/media/pngtree-blue-creative-water-droplets-arc-picture-image_916262.png": "/static/media/pngtree-blue-creative-water-droplets-arc-picture-image_916262.9edaa723a6177abb8433.png",
-    "static/media/desktop-wallpaper-ocean.jpg": "/static/media/desktop-wallpaper-ocean.89fd3458d3e04075563a.jpg",
-    "index.html": "/index.html",
-    "main.a8032367.css.map": "/static/css/main.a8032367.css.map",
-    "main.422f576c.js.map": "/static/js/main.422f576c.js.map"
+    "main.css": "/water-supplier-website/static/css/main.a8032367.css",
+    "main.js": "/water-supplier-website/static/js/main.82fdb11c.js",
+    "static/media/pngtree-blue-creative-water-droplets-arc-picture-image_916262.png": "/water-supplier-website/static/media/pngtree-blue-creative-water-droplets-arc-picture-image_916262.9edaa723a6177abb8433.png",
+    "static/media/desktop-wallpaper-ocean.jpg": "/water-supplier-website/static/media/desktop-wallpaper-ocean.89fd3458d3e04075563a.jpg",
+    "index.html": "/water-supplier-website/index.html",
+    "main.a8032367.css.map": "/water-supplier-website/static/css/main.a8032367.css.map",
+    "main.82fdb11c.js.map": "/water-supplier-website/static/js/main.82fdb11c.js.map"
   },
   "entrypoints": [
     "static/css/main.a8032367.css",
-    "static/js/main.422f576c.js"
+    "static/js/main.82fdb11c.js"
   ]
 }
